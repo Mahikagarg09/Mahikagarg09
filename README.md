@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **backend development and DSA in C++**
 
-- 💻I am currently working on **some project based on react js**
+- 💻I am currently working on **mern stack projects**
 
 - 🤝 I’m looking to work together **with people who want to learn and improve our skills together**
 
