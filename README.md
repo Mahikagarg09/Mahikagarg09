@@ -8,7 +8,7 @@
 
 - 👩‍🎓 Pursuing B.tech in **Information Technology**
 
-- 🌱 I’m currently learning **backend development and DSA in C++**
+- 🌱 I’m currently learning **backend development and DSA in JAVA**
 
 - 💻I am currently working on **mern stack projects**
 
