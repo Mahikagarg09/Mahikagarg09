@@ -2,8 +2,6 @@
 <h3 align="center">A passionate learner | Web Developer</h3>
 <img align="right"  width="400" src="https://octodex.github.com/images/oktobercat.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahikagarg09&label=Profile%20views&color=0e75b6&style=flat" alt="mahikagarg09" /> </p>
-
 <p align="left"> <a href="https://twitter.com/mahika_garg_23" target="blank"><img src="https://img.shields.io/twitter/follow/mahika_garg_23?logo=twitter&style=for-the-badge" alt="mahika_garg_23" /></a> </p>
 
 - 👩‍🎓 Pursuing B.tech in **Information Technology**
